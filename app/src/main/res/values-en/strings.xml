@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DinoVault</string>
+    <string name="start_journey">Start my journey</string>
+    <string name="explore_message">Explore the era of giants:\nDinoVault, your prehistoric portal!</string>
+    <string name="add_species">Add species</string>
+    <string name="edit_species">Edit species</string>
+    <string name="delete_species">Delete species</string>
+    <string name="confirm_delete">Are you sure you want to delete this species?</string>
+    <string name="no_results">No results found.</string>
+    <string name="no_favorites">No favorites yet.</string>
+    <!-- Más texto no implementado ya que provocaba procesos pesados y la salida de la app -->
+</resources>
